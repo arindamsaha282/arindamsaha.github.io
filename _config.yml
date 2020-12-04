@@ -55,7 +55,7 @@ and open the template in the editor.
   </head>
   <body
     style="
-      background-image: url(bp.jpg);
+      
       background-position: center center;
       background-repeat: no-repeat;
       background-attachment: fixed;
